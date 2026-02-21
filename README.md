@@ -1,0 +1,87 @@
+# BTS – RUN
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+君はこの僕を照らす太陽
+君の為に咲き 枯らす My soul
+もうギュッとギュッとして欲しい
+グッと抱きしめるこの枯れぬ心
+手 伸ばしてもすぐ冷める Dream
+走ってみても同じとこいる
+答えは無くて 恋なんてまるで
+バカみたいさ必死な追いかけっこの
+様
+ありのまま
+走り出すのさ
+傷だらけになっても
+君となら笑えるから
+また RUN, RUN, RUN
+止まれはしないんだ
+We RUN, RUN, RUN
+終われはしないんだ
+他にはないからどうせ
+君しか愛せないどうせ
+また RUN, RUN, RUN
+傷ついてたって
+We RUN, RUN, RUN
+まだ遠くたって
+例え届かなくても
+運命に嫌われても
+RUN
+Don't tell me bye bye
+RUN
+You make me cry cry
+RUN
+Love is a lie lie
+Don't tell me, don't tell me
+Don't tell me bye bye
+全ては終わり？でもかまわない
+涙か汗かもう分からない
+向かい風の嵐の中 この愛も
+君となら自然とまた走れる
+ありのまま
+走り出すのさ
+傷だらけになっても
+君となら笑えるから
+また RUN, RUN, RUN
+止まれはしないんだ
+We RUN, RUN, RUN
+終われはしないんだ
+他にはないからどうせ
+君しか愛せないどうせ
+また RUN, RUN, RUN
+傷ついてたって
+We RUN, RUN, RUN
+まだ遠くたって
+例え届かなくても
+運命に嫌われても
+思い出が枯れ葉の様
+粉々になってく
+遠い背中 追いかけまた
+ただ君の元へ
+まるで蝶を追う様 夢の模様と
+君の跡、辿り
+分かってても 止まれないもう
+どうやっても…
+また RUN, RUN, RUN
+止まれはしないんだ
+We RUN, RUN, RUN
+終われはしないんだ
+他にはないからどうせ
+君しか愛せないどうせ
+また RUN, RUN, RUN
+傷ついてたって
+We RUN, RUN, RUN
+まだ遠くたって
+例え届かなくても
+運命に嫌われても
+RUN
+Don't tell me bye bye
+RUN
+You make me cry cry
+RUN
+Love is a lie lie
+Don't tell me, don't tell me
+Don't tell me bye bye
+```
